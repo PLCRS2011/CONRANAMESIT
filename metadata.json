@@ -1,0 +1,7 @@
+{
+  "name": "ConraNamesIt",
+  "description": "Una aplicación estilo Tinder para parejas que buscan el nombre perfecto para su nueva mascota. Utiliza IA para sugerir nombres según la especie e identifica coincidencias mutuas entre dos usuarios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
